@@ -17,9 +17,3 @@ Cryptocurrency, Bitcoin, Ethereum, XRP, blockchain live price updates and notifi
 
 - [Rhythm Shandlya](https://github.com/rhythmshandlya)
 - [Abhinav Sinha](https://github.com/abhinavvsinhaa)
-# CryptoLogy
-
-# CryptoLogy
-
-# CryptoLogy
-
