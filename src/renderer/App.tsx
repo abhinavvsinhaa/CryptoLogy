@@ -4,8 +4,13 @@ import './global.css';
 
 const HelloComponent = () => {
   return (
-    <div>
-      <h1>Hey</h1>
+    <div style={{ textAlign: 'center' }}>
+      <h1>CryptoLogy</h1>
+      <p>
+        by
+        <br />
+        <h4>Rhythm Shandlya & Abhinav Sinha</h4>
+      </p>
     </div>
   );
 };
