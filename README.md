@@ -1,6 +1,5 @@
-# Electron React Application
-
-Cryptocurrency, Bitcoin, Ethereum, XRP, blockchain live price updates and notifications. Electron and React based application.
+# Crypto Logy 
+Cryptocurrency ie. Bitcoin, Ethereum, XRP, blockchain live price updates and notifications. Electron and React based application.
 
 ## Install All Necessary Packages
     npm install
