@@ -17,3 +17,6 @@ Cryptocurrency, Bitcoin, Ethereum, XRP, blockchain live price updates and notifi
 
 - [Rhythm Shandlya](https://github.com/rhythmshandlya)
 - [Abhinav Sinha](https://github.com/abhinavvsinhaa)
+
+## Boiler Plate From 
+[electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
