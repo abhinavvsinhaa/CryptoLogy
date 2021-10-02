@@ -1,16 +1,17 @@
 # Crypto Logy 
-Cryptocurrency ie. Bitcoin, Ethereum, XRP, blockchain live price updates and notifications. Electron and React based application.
+An Electron and React desktop application which helps you to get live notifications updates and shows all the essential details of different cyptocurrencies like BTC, Ethereum, Ada, etc. 
 
 ## Install All Necessary Packages
     npm install
 
-## Starting Devlopment Server
-
+## Start Devlopment Server
     npm start
 
 ## To package apps for the local platform
-
     npm run package
+    
+## To package for deployment
+    npm build
 
 ## Authors
 
